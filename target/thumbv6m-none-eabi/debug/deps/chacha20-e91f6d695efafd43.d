@@ -1,0 +1,10 @@
+C:\EngineeringProjects\Rust_Projects\target\thumbv6m-none-eabi\debug\deps\chacha20-e91f6d695efafd43.d: C:\Users\aibel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\lib.rs C:\Users\aibel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\variants.rs C:\Users\aibel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\backends.rs C:\Users\aibel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\rng.rs C:\Users\aibel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\../README.md C:\Users\aibel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\backends\soft.rs
+
+C:\EngineeringProjects\Rust_Projects\target\thumbv6m-none-eabi\debug\deps\libchacha20-e91f6d695efafd43.rmeta: C:\Users\aibel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\lib.rs C:\Users\aibel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\variants.rs C:\Users\aibel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\backends.rs C:\Users\aibel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\rng.rs C:\Users\aibel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\../README.md C:\Users\aibel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\backends\soft.rs
+
+C:\Users\aibel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\lib.rs:
+C:\Users\aibel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\variants.rs:
+C:\Users\aibel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\backends.rs:
+C:\Users\aibel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\rng.rs:
+C:\Users\aibel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\../README.md:
+C:\Users\aibel\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\chacha20-0.10.0\src\backends\soft.rs:

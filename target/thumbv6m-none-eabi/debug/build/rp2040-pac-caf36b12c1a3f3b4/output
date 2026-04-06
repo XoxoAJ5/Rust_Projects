@@ -1,0 +1,3 @@
+cargo:rustc-link-search=C:\EngineeringProjects\Rust_Projects\target\thumbv6m-none-eabi\debug\build\rp2040-pac-caf36b12c1a3f3b4\out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs

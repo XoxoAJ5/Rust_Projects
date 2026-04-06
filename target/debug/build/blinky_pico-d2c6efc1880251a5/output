@@ -1,0 +1,2 @@
+cargo:rustc-link-search=C:\EngineeringProjects\Rust_Projects\target\debug\build\blinky_pico-d2c6efc1880251a5\out
+cargo:rerun-if-changed=memory.x

@@ -1,0 +1,3 @@
+cargo:rustc-link-search=C:\EngineeringProjects\Rust_Projects\target\debug\build\rp2040-pac-4ced58805301744e\out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs
